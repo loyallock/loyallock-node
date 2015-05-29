@@ -1,0 +1,30 @@
+{
+  "name": "loyallock",
+  "version": "0.0.1",
+  "description": "LoyalLock Node.JS API",
+  "main": "lib/loyallock-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loyallock/loyallock-node.git"
+  },
+  "keywords": [
+    "loyallock",
+    "referrals",
+    "api"
+  ],
+  "author": "LoyalLock <info@loyallock.com> (http://loyallock.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loyallock/loyallock-node/issues"
+  },
+  "homepage": "https://github.com/loyallock/loyallock-node",
+  "dependencies": {
+    "request": "^2.55.0"
+  }
+}
