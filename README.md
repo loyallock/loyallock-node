@@ -34,13 +34,13 @@ llClient.addCheckout({order_id: '1111', email: 'customer_email@example.org', tot
 
 
 // confirm a pending checkout
-llClient.addCheckout('1111', function(err, result) {
+llClient.confirmCheckout('1111', function(err, result) {
 
 });
 
 
 // cancel a pending checkout
-llClient.addCheckout('1111', function(err, result) {
+llClient.cancelCheckout('1111', function(err, result) {
 
 });
 
