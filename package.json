@@ -1,6 +1,6 @@
 {
   "name": "loyallock",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "LoyalLock Node.JS API",
   "main": "lib/loyallock-node.js",
   "scripts": {
